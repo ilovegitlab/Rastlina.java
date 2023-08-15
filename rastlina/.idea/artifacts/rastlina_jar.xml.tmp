@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rastlina:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rastlina_jar</output-path>
+    <root id="archive" name="rastlina.jar">
+      <element id="module-output" name="rastlina" />
+    </root>
+  </artifact>
+</component>
